@@ -1,5 +1,5 @@
 html {
-    font-family: Verdana;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .container {
@@ -74,14 +74,13 @@ section{
     margin: 5rem 0 5rem 0;
 }
 
-h3 {
-
+h5 {
+display: none;
 }
 
 article {
-
     background-color: #2D2D2A;
-    color: floralwhite;
+    color: #fff9ef;
     box-sizing: border-box;
     width: 32%;
     margin: 5px;

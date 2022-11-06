@@ -1,5 +1,5 @@
 html {
-    font-family: Verdana;
+    font-family: 'Open Sans', sans-serif;
 }
 
 .container {
@@ -52,9 +52,8 @@ li a {
     text-decoration: none;
 }
 
-main {
-    margin: 5%;
-
+main{
+    margin: 1rem;
 }
 
 h2 {
@@ -65,6 +64,10 @@ article {
     font-weight: bold;
 }
 
+h5 {
+    display: none;
+}
+
 figure {
     float: left;
     margin: 0 1rem 1rem 0;
@@ -73,10 +76,9 @@ figure {
     width: 30%;
 }
 
-img {
+figure img {
     border-radius: 8px 8px 0 0;
     width: 100%;
-    height: auto;
 }
 
 figcaption {
