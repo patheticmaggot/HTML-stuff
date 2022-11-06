@@ -8,7 +8,7 @@ html {
 }
 
 body {
-    background-image: url(http://www.ikozmik.com/Content/Images/uploaded/its-free-featured.jpg);
+    background-image: url(https://blog.lexmed.com/images/librariesprovider80/blog-post-featured-images/limes.tmb-xlarge.jpg?sfvrsn=2e28920b_1);
     margin: 0;
     padding: 0;
 }
@@ -69,6 +69,8 @@ h3 {
 }
 
 article img {
-    width: 95%;
     padding: 0;
+    width: 1600px;
+    height: 337px;
+    object-fit: cover
 }
