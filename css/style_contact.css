@@ -70,6 +70,10 @@ section {
     display: flex;
 }
 
+h6 {
+    display: none;
+}
+
 article {
     color: black;
     background-color: #d9ffcf;
