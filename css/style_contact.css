@@ -64,16 +64,12 @@ h2 {
     font-size: 4rem;
 }
 
+section {
+    display: flex;
+}
+
 article {
-    font-weight: bold;
     color: black;
-}
-
-h5 {
-    display: none;
-}
-
-article{
     background-color: #d9ffcf;
     border-radius: 8px;
     box-sizing: border-box;
@@ -81,6 +77,10 @@ article{
     width: 30%;
     margin-bottom: 1rem;
     border: 1px black solid;
+}
+
+a {
+    font-weight: bold;
 }
 
 figure {
